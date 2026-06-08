@@ -1,7 +1,6 @@
 # 🎂 BirthdayGurl — Bespoke Virtual Celebration Page
 
 <div align="center">
-  <img width="100%" alt="BirthdayGurl Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" style="border-radius: 16px;" />
   
   <p align="center">
     <strong>Sebuah kartu ucapan ulang tahun interaktif, sinematik, dan penuh dengan kejutan estetik.</strong>
