@@ -1,4 +1,4 @@
-# 🎂 BirthdayGurl — Bespoke Virtual Celebration Page
+# 🎂 Happy Birthday — Bespoke Virtual Celebration Page
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Tentang BirthdayGurl
+## 🌟 Tentang HappyBirthday Card
 
 **BirthdayGurl** adalah aplikasi web satu halaman (Single Page Application) berbasis React yang dirancang khusus sebagai kado ulang tahun digital yang interaktif dan memukau. Dengan estetika warna pastel *Champagne*, *Warm Blush*, dan *Amber Glow*, aplikasi ini memberikan pengalaman imersif bagi penerimanya dari awal membuka kotak kado hingga meniup lilin ulang tahun secara virtual.
 
