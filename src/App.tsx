@@ -85,7 +85,7 @@ export default function App() {
       {showSurprise && isAudioPlaying && (
         <iframe
           className="absolute w-0 h-0 opacity-0 pointer-events-none"
-          src="https://www.youtube.com/embed/kY67Z3vB6tU?autoplay=1&mute=0&loop=1&playlist=kY67Z3vB6tU"
+          src="https://www.youtube.com/embed/57jZJ2QpKRg?autoplay=1&mute=0&loop=1&playlist=57jZJ2QpKRg"
           allow="autoplay; encrypted-media"
           title="Birthday Background Stream"
         />
