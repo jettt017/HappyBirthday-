@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration",
+  "description": "A beautiful, premium, and highly polished interactive birthday surprise website with a cinematic, emotional design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
