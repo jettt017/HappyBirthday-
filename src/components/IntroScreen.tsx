@@ -79,7 +79,7 @@ export default function IntroScreen({ onUnwrap }: IntroScreenProps) {
       >
         {/* Ribbon Invitation Label */}
         <span className="font-display inline-block font-semibold text-[10px] tracking-[0.25em] text-rose-500 uppercase bg-rose-50 border border-rose-100 px-4 py-1.5 rounded-full mb-6">
-          You are warmly invited
+          I hope you like it
         </span>
 
         {/* Surprise Letter / Box Header Element */}
@@ -104,7 +104,7 @@ export default function IntroScreen({ onUnwrap }: IntroScreenProps) {
 
         {/* Intro Typographic Greeting */}
         <h1 className="font-display text-3xl md:text-4xl text-stone-800 font-bold tracking-tight mb-3">
-          Birthday Invitation
+          Happy Birthday
         </h1>
         <p className="font-sans text-stone-500 text-sm leading-relaxed mb-8 max-w-sm mx-auto">
           A bespoke virtual gift package and heartfelt celebration have been prepared. Open your card below to discover the magical moments inside!

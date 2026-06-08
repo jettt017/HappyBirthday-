@@ -264,7 +264,7 @@ export default function CelebrationFooter() {
             Crafted with warmth
           </span>
           <span className="font-serif italic text-sm text-stone-500 flex items-center gap-1 select-text">
-            Made with love by <strong className="font-bold text-rose-400 not-italic font-sans text-xs tracking-wider uppercase bg-rose-50/70 border border-rose-100/40 px-2 py-0.5 rounded-md">gani</strong>
+            Made by <strong className="font-bold text-rose-400 not-italic font-sans text-xs tracking-wider uppercase bg-rose-50/70 border border-rose-100/40 px-2 py-0.5 rounded-md">gani</strong>
           </span>
         </div>
       </div>
